@@ -21,7 +21,7 @@ Currently, to allow for greater flexibility and different development architectu
 
 This division will enable to change the DSLs, architetures(static, SPA, MPA) and resulting representations of the app inside the browser. That implies, multiple configurations to better fit the use cases.
 
-
+### Middleware
 Along with this changes, there is interest to add support for middleware, which will come with some official ones like:
 - [ ] SEO populator (populates an HTML with static content on an SPA)
 - [ ] Debugger (records server calls, debugs client side code, intented to allow for step-by-step debugging and WASM support)
