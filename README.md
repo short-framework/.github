@@ -5,6 +5,10 @@
 The short framework aims to create an alternative tecnology to build web applications using Kotlin, based on the concept of centralizing the full stack of the development into a single repository.
 With this concept the it is expected to achieve a better development expirience which leverages the fact that the whole code for the application is in the same code base to implement safe checks between the front-end and back-end of the application, protecting against data missmatches.
 
+## Licensing
+
+Except when stated otherwise all the code inside the SHORT Framework organisation is licensed using [APACHE 2.0](/.github/blob/main/LICENSE).
+
 ## Current status
 
 Currently, to allow for greater flexibility and different development architectures a study is being conducted to split the core package into the following parts:
