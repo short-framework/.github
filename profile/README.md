@@ -7,7 +7,7 @@ With this concept the it is expected to achieve a better development expirience 
 
 ## Licensing
 
-Except when stated otherwise all the code inside the SHORT Framework organisation is licensed using [APACHE 2.0](/.github/blob/main/LICENSE).
+Except when stated otherwise all the code inside the SHORT Framework organisation is licensed using [APACHE 2.0](/blob/main/LICENSE).
 
 ## Current status
 
